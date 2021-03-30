@@ -44,7 +44,7 @@
 
 - For % of matches started, my model would indicate that those who start games less, or substitute players are valued lower, but again, often what matters is how well you perform in those 20 or 30 minutes you get subbed on for, and again you maybe able to find undervalued players who have a great goal and assist efficiency.
 
-- **Further plots and results can be found in the [project presentation](Presentation/Metis_Project2_PPT_vF.pdf). The main project code can by found in the three Jupyter notebook files located [here](Notebooks).**
+**Further plots and results can be found in the [project presentation](Presentation/Metis_Project2_PPT_vF.pdf). The main project code can by found in .py files and Jupyter notebooks located [here](Code).**
 
 
 
